@@ -1,0 +1,22 @@
+{
+  "name": "l2box",
+  "version": "0.0.0",
+  "description": "l2box =====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/epice/l2box.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "1e6243ac3bdc9b43da54db52237545315fd31f89",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "~0.4.4"
+  }
+}
